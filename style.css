@@ -1,5 +1,7 @@
+body {margin:0;}
 header {background-color:red}
 main {background-color: blue}
-footer {background-color: yellow;}
+footer {background-color: yellow}
+ul { margin:0;}
 
 
